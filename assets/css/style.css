@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth; /* Suaviza el desplazamiento */
   }
 .main{
-    background-color: #0c5daf;
+    background-color: #e35be7;
     color: #343a40;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -18,14 +18,14 @@ html {
 
 .card{
 
-    background-color: #86b7fe;
+    background-color: #ec0cec;
     border-radius:10px;
 }
 
 .line {
     width: 100%;
     height: 2px;
-    background-color: #0c5daf; /* Color de la línea */
+    background-color: #e419eb; /* Color de la línea */
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); /* Sombra sutil */
     margin: 20px 0;
   }
